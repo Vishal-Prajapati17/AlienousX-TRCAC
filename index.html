@@ -177,7 +177,7 @@
             }
 
             // JWT identify for Chatbase
-            setTimeout(() => {
+            setTimeout(() => {   
                 if (window.chatbase && typeof window.chatbase === 'function') {
                     const dummyToken = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoidXNyXzd4M2E5ZjJiIiwiZW1haWwiOiJhbGV4QGFsaWVub3VzeC5zcGFjZSIsInN0cmlwZV9hY2NvdW50cyI6WyJhY2N0XzFRYkYzSyIsImFjY3RfMldwTDlYIl0sImlhdCI6MTUxNjIzOTAyMiwiZXhwIjoyNTE2MjM5MDIyfQ.ZUeDUjC7VIrF_bbcLxiq_yONAcddJkO3_hrY_pf4c-c"; 
                     window.chatbase('identify', { token: dummyToken });
