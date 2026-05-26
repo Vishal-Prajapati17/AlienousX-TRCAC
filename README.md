@@ -1,4 +1,4 @@
-# AlienousX – AI Assistant for TRCAC
+# AlienousX – AI Assistant for TRCAC 
 
 An AI-powered assistant designed to help students of **Thakur Ramnarayan College of Arts and Commerce (TRCAC)** quickly access information about the college such as admissions, courses, campus life, and student services.
 
