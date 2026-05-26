@@ -8,7 +8,7 @@ This project is created **purely for educational purposes** to demonstrate how A
 
 # Overview
 
-Students often need information about:
+Students often need information about:-
 
 - Admissions process
 - Courses and programs
